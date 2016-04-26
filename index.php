@@ -9,7 +9,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-
+          <?php include 'menu.php' ?>
         </div>        
         <div class="col-md-4">
           <h1>Colegio NUSCHI</h1>
@@ -18,7 +18,7 @@
         </div>
         
         <div class="col-md-4">
-          <h1>Bienv enidos </h1>
+          <h1>Bienvenidos </h1>
            <p>
             El Sistema de Informacion PRE-REGISTER es el repositorio de informacion del Sistema Educativo, que realiza un pre-registro a alumnos que deseen ingresar a la institucion, este le avisa con un e-mail si su inscripcion fue exitosa o fallida. Incluye la informacion personal de estas personas. Este portal en internet provee acceso a datos de la insitucion.
           </p>

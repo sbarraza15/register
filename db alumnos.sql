@@ -16,3 +16,4 @@ primary key(Identificacion,Nombre));
 select * from alumnos
 drop table alumnos;
 show tables;
+
